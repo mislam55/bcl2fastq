@@ -1,0 +1,1 @@
+async --alt-logdir e:\intersect01\synclog\log -N sync-pair-name-01  -d e:\intersect01\nextseq  -r spacedemo@dtn-2.intersect.org.au:schn-usecase/test-temp-gehendra --local-db-dir e:\intersect01\synclog\db -B schn-usecase/synclog/db -R schn-usecase/synclog/log -P 33001 -i c:\Users\mohammad\Desktop\bcl_qa.txt -l 50M --ignore-delete
